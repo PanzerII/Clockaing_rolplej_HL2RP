@@ -1,6 +1,6 @@
 
 ITEM.name = "Koszula CWU"
-ITEM.description = "Koszula przeznaczona dla członków CWU."
+ITEM.description = "Koszula przeznaczona dla członków wydziału produkcyjnego i wynajemczego CWU."
 ITEM.category = "Ubranie"
 ITEM.model = "models/fty/items/shirt_citizen1.mdl"
 ITEM.skin = 2

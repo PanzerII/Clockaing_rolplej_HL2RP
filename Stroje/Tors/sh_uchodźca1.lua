@@ -1,5 +1,5 @@
 
-ITEM.name = "Zniszczona koszula obywaela."
+ITEM.name = "Zniszczona koszula obywatela."
 ITEM.description = "Trochę zniszczona koszula obywatela. Jakimś cudem zielona."
 ITEM.category = "Ubranie"
 ITEM.model = "models/fty/items/shirt_citizen1.mdl"

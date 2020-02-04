@@ -1,16 +1,16 @@
 
-ITEM.name = "Spodnie Medyczne"
-ITEM.description = "Spodnie powszechnie używane przez sanitariuszy różnych organizacji podziemnych."
+ITEM.name = "Spodnie Robocze"
+ITEM.description = "Spodnie używane głównie to pracy w przemyśle cięzkim, lekko wzmocnione."
 ITEM.category = "Ubrania"
-ITEM.skin = 0
-ITEM.model = "models/fty/items/pants_citizen.mdl"
+ITEM.skin = 1
+ITEM.model = "models/fty/items/pants_rebel.mdl"
 ITEM.width = 1
 ITEM.height = 1
 ITEM.outfitCategory = "nogi"
 ITEM.pacData = {}
 ITEM.bodyGroups = {
-    ["legs"] = 4, }
-ITEM.armor = 10
+    ["legs"] = 9, }
+ITEM.armor = 5
 
 
 if (CLIENT) then

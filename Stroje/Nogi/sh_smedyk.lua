@@ -1,16 +1,16 @@
 
-ITEM.name = "Zielone Spodnie Bojowe"
-ITEM.description = "Opancerzone spodnie bojowe. Zielone."
+ITEM.name = "Spodnie Medyczne"
+ITEM.description = "Spodnie powszechnie używane przez sanitariuszy różnych organizacji podziemnych."
 ITEM.category = "Ubrania"
 ITEM.skin = 0
-ITEM.model = "models/fty/items/pants_rebel.mdl"
+ITEM.model = "models/fty/items/pants_citizen.mdl"
 ITEM.width = 1
 ITEM.height = 1
 ITEM.outfitCategory = "nogi"
 ITEM.pacData = {}
 ITEM.bodyGroups = {
     ["legs"] = 4, }
-ITEM.armor = 25
+ITEM.armor = 10
 
 
 if (CLIENT) then

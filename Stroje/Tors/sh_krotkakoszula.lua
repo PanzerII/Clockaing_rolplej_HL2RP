@@ -1,8 +1,8 @@
 
-ITEM.name = "Krótka koszula"
-ITEM.description = "Koszula obywatelska z krótkimi rękawami."
+ITEM.name = "Wzór na strój"
+ITEM.description = "Tu wpisz opis stroju"
 ITEM.category = "outfit"
-ITEM.model = "models/fty/items/shirt_citizen2.mdl"
+ITEM.model = "Model ubrania"
 ITEM.width = 1
 ITEM.height = 1
 ITEM.outfitCategory = "tors"

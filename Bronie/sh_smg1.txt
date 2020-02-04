@@ -1,4 +1,4 @@
-ITEM.name = "H&K MP7. Broń używana przez cały Kombinat na ziemi. Duży magazynek i szybkostrzelność. Pomimo jego zalet, jest strasznie niecelny i trudno go kontrolować przy ogniu automatycznym."
+ITEM.name = "H&K MP7. Broń używana przez cały Kombinat na Ziemi. Duży magazynek i szybkostrzelność. Pomimo jego zalet, jest strasznie niecelny i trudno go kontrolować przy ogniu automatycznym."
 ITEM.description = "A Weapon."
 ITEM.model = "models/weapons/w_smg1.mdl"
 ITEM.class = "tfa_mmod_smg"
